@@ -1,0 +1,8 @@
+Package: de.maxiwee.fiveicondock
+Name: FiveIconDock - Rootless 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Add a 5th icon to your dock
+Maintainer: maxiwee
+Author: maxiwee
+Section: Tweaks

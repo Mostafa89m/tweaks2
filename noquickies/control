@@ -1,0 +1,9 @@
+Package: de.maxiwee.noquickies
+Name: noquickies
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Hide these anyoing quick action buttons on the Lockscreen.
+Maintainer: maxiwee
+Author: maxiwee
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)

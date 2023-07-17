@@ -1,0 +1,9 @@
+Package: de.maxiwee.noballz
+Name: noballz
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Hide the page dots
+Maintainer: maxiwee
+Author: maxiwee
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)

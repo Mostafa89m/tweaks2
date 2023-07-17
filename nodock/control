@@ -1,0 +1,8 @@
+Package: de.maxiwee.nodock
+Name: NoDock
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Just another Dock hider but rootless but this one isnt???? 
+Maintainer: maxiwee
+Author: Maxiwee
+Section: Tweaks
